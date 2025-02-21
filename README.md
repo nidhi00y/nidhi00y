@@ -1,6 +1,3 @@
-Here’s a **GitHub Profile README** for you:  
-
----
 
 # **👋 Hi, I'm Nidhi Yadav!**  
 🎓 **CSE Sophomore at NIT Jalandhar** | 💻 **Frontend Developer** | 🎨 **Tech Enthusiast**  
