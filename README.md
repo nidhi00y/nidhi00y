@@ -1,62 +1,31 @@
-<h1 align="center">Hi 👋, I'm Nidhi</h1>
-<h3 align="center">B.Tech Student | Developer | ML Enthusiast 🚀</h3>
+Here’s a **GitHub Profile README** for you:  
 
 ---
 
-# 📊 My GitHub History!
+# **👋 Hi, I'm Nidhi Yadav!**  
+🎓 **CSE Sophomore at NIT Jalandhar** | 💻 **Frontend Developer** | 🎨 **Tech Enthusiast**  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhi00y&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi00y&layout=compact&theme=tokyonight" height="160"/>
-</p>
+### 🚀 **About Me**  
+- 🔥 Passionate about **web & mobile app development**.  
+- 💡 Love working on **React, React Native, and JavaScript** projects.  
+- 🎨 Enjoy building **aesthetic & functional UI designs**.  
+- 📊 Prefer **Plotly for data visualizations**.  
+- 🏸 **Badminton lover** & 🎨 **Craft enthusiast**.  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhi00y&theme=tokyonight" />
-</p>
+### 💻 **Tech Stack**  
+- **Frontend:** React.js, React Native, HTML, CSS, JavaScript  
+- **Backend:** Firebase, Node.js (Learning 🚀)  
+- **Tools & Libraries:** Git, Tailwind CSS, Styled Components  
+- **Other Interests:** API Integration, Open Source Contributions  
 
----
+### 📌 **Notable Projects**  
+✅ **[Next Insulin Dose Predictor](#)** – A React Native app for Type 1 diabetes insulin dose prediction.  
+✅ **[ExamGuardAI](#)** – AI-based **proctoring platform** for online exams.  
+✅ **[E-Commerce Website](#)** – A **React & Firebase** e-commerce platform selling headphones.  
+✅ **[Portfolio Website](#)** – Personal portfolio showcasing my skills & projects.  
+✅ **[Food Delivery Website](#)** – HTML, CSS, and JS-based food ordering platform.  
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nidhi00y&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhi00y&theme=tokyo-night"/>
-</p>
-
----
-
-## 💻 Languages & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,mongodb,html,css,flask,git,vscode" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Machine Learning  
-- MERN Stack  
-- Data Structures & Algorithms  
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-</p>
-
----
-
-⭐ From [nidhi00y](https://github.com/nidhi00y)
-
+### 📫 **Connect with Me**  
+🌍 **Portfolio:** [nidhipofo2.netlify.app](#)  
+📧 **Email:** nidhiy2810@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/nidhi-yadav-821404290/
