@@ -1,8 +1,8 @@
 # **👋 Hi, I'm Nidhi Yadav!**  
-🎓 **CSE Pre-Final Student at NIT Jalandhar** | 💻 **Frontend Developer** | 🎨 **Tech Enthusiast**  
+🎓 **CSE Pre-Final Student at NIT Jalandhar** 
 
 ### 🚀 **About Me**  
-- 🔥 Passionate about **web development and Machine Learning**.  
+- 🔥 Passionate about **Backend development and Machine Learning**.  
 - 💡 Love working on **React and JavaScript** projects.   
 - 🏸 **Badminton lover** & 🎨 **Craft enthusiast**.  
 
