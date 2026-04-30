@@ -1,4 +1,4 @@
-# **👋 Hi, I'm Nidhi Yadav!**  
+# **Hi, I'm Nidhi Yadav!**  
 🎓 **CSE Pre-Final Student at NIT Jalandhar** 
 
 ### 🚀 **About Me**  
