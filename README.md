@@ -4,7 +4,6 @@
 ### 🚀 **About Me**  
 - 🔥 Passionate about **Backend development and Machine Learning**.  
 - 💡 Love working on **React and JavaScript** projects.   
-- 🏸 **Badminton lover** & 🎨 **Craft enthusiast**.  
 
 ### 💻 **Tech Stack**  
 - **Frontend:** React.js, React Native, HTML, CSS, JavaScript  
@@ -13,6 +12,5 @@
 - **Other Interests:** API Integration, Open Source Contributions  
 
 ### 📫 **Connect with Me**  
-🌍 **Portfolio:** [nidhipofo2.netlify.app](#)  
 📧 **Email:** nidhiy2810@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/nidhi-yadav-821404290/
