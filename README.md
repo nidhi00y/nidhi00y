@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Nidhi Yadav!
 
-### 💻 CSE Pre-Final Year Student @ NIT Jalandhar
+### 💻 CSE Final Year Student @ NIT Jalandhar
 
 I'm a Computer Science student passionate about **Backend Development, Machine Learning, AI, and building practical applications**.
 
